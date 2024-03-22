@@ -63,7 +63,7 @@ nav a:hover {
   width: auto;
   justify-content: center;
   align-items: center;
-  background: url("/home.jpg");
+  background: url("home.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
